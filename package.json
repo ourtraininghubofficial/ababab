@@ -1,0 +1,8 @@
+{
+  "name": "kuchnh",
+  "version": "1.0.0",
+  "description": "bs aisy",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
